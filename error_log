@@ -1,0 +1,4 @@
+[26-Jul-2016 11:59:33 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/trueb8fu/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[26-Jul-2016 12:00:56 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/trueb8fu/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[26-Jul-2016 12:03:56 Etc/GMT] PHP Fatal error:  Call to a member function query() on boolean in /home/trueb8fu/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[26-Jul-2016 12:07:32 Etc/GMT] PHP Fatal error:  Call to a member function query() on boolean in /home/trueb8fu/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 264
